@@ -1,1 +1,2 @@
 # Simple-Bank-System
+The Simple Bank System with JavaScript is a user-friendly and straightforward web application that allows users to perform basic banking transactions such as depositing and withdrawing money, as well as checking their account balance. This project aims to provide a hands-on learning experience for JavaScript beginners while offering a practical example of how to implement basic financial operations in a web-based environment.
